@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Holiday Inn Express Paraiso Dos Bocas", "TEL": "(933) 333 5200", "URL": "http:\/\/www.ihg.com/holidayinnexpress/hotels/us/es/paraiso/vsaga/hoteldetail?qRef=rr&qDest=Carretera+Federal+Paraiso+Puerto+Ceiba+Paraiso+Tab+Mexico&qRpn=1&qChld=0&qSrt=sBR&qSHp=1&qSmP=3&qGRM=0&qSlH=VSAGA&qRms=1&srb_u=1&qAdlt=2&qPSt=0&qFRA=1&qRtP=6CBARC&qCiMy=042016&qHtlC=VSAGA&qrtPt=51.30&qCoD=30&qCiD=29&qCoMy=042016&qRmP=K.O.T.X.C&qRRSrt=rt&qRpp=20&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn&qWch=0&icdv=99618783#\/", "ADDRESS1": "Carretera Federal Paraiso Puerto Ceiba S/N,Guanajay,86600 Paraiso, Tab.", "ADDRES2": null, "CITY": "Paraiso", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2194040, 18.4049280] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Empresarial", "TEL": "(933) 333 1590", "URL": "http:\/\/www.bodas.com.mx\/", "ADDRESS1": "Cinco de Mayo 205,Centro,86600 Paraiso, Tab.", "ADDRES2": null, "CITY": "Paraiso", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2151720760471,18.3972550 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "HOTEL BUENOS AIRES", "TEL": "(933) 333 0850", "URL": "http:\/\/www.actiweb.es\/", "ADDRESS1": "Paraiso, Tabasco. Buenos Aires#500,Esquina Con Gutierrez Zamora,86605 Paraíso, Tab.", "ADDRES2": null, "CITY": "Paraiso", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2095960,18.3978220 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Hotel Plaza Blanquita", "TEL": "(933) 333 0664", "URL": "http:\/\/www.hotelplazablanquita.com.mx\/theacorn.htm", "ADDRESS1": "Santos Degollado 1259,Centro,86605 Paraiso, Tab.", "ADDRES2": null, "CITY": "Paraiso", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2112370, 18.3997070 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hotel Dos Ceibas Suites", "TEL": "(933) 333 3383", "URL": "http:\/\/www.hoteldosceibassuites.com.mx\/", "ADDRESS1": "Manuel R. Dominguez,La Ceiba,86600 Paraiso, Tab.", "ADDRES2": null, "CITY": "Paraiso", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2071600,18.3937210] } }
+]
+}

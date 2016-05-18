@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Bufalucas", "TEL": "(933) 333 1317", "URL": "", "ADRESS1": "Libramiento a Dos Bocas,El Limon,86606 Paraiso, Tab.", "ADDRESS2": null, "CITY": "Paraiso", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2145880,18.4100260] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Fiesta Brava", "TEL": "(933) 333 4676", "URL": "", "ADRESS1": "Calle Melchor Ocampo,El Carmen,86600 Paraiso, Tab.", "ADDRESS2": null, "CITY": "Paraiso", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2144180,18.3950510] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Restaurante Bar Cafe Pepe", "TEL": "(933) 333 4808", "URL": "", "ADRESS1": "Calle 18 de Marzo 123,Fraccionamiento Costa Real,86600 Paraiso, Tab.", "ADDRESS2": null, "CITY": "Paraiso", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2172220,18.4046970] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Fiesta Brava Plaza Cristal", "TEL": "(933) 333 2631", "URL": "", "ADRESS1": "Av Madrid,La Ceiba,86607 Paraiso, Tab.", "ADDRESS2": null, "CITY": "Paraiso", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2056150,18.3997110] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Parrilladas Suiza", "TEL": "(933) 333 2842", "URL": "", "ADRESS1": "Santos Degollado 108,Costa Real,86600 Paraiso, Tab.", "ADDRESS2": null, "CITY": "Paraiso", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2139680, 18.3944930]}}
+]
+}
